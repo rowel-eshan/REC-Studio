@@ -1,5 +1,6 @@
-Hey there!
-Welcome to RECStudio, an experimental audio to MIDI platform.
+#### RECStudio
+
+### Welcome to RECStudio, an experimental audio to MIDI platform.
 
 Capabilites:
 - Recording audio in WAV
