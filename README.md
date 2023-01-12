@@ -14,7 +14,7 @@ Capabilites:
 - Very user friendly and modern design 
 - Seamless transition between panels
 - Modern look and feel
-- 
+
 ![Homepage](/images/rec1.png "Image Title")
 
 
@@ -33,11 +33,11 @@ API/Libraries used:
 - jMusic
 - QuiFFT
 - TrackAnalyzer
-		- Commons math 3 (library for track analyzer)
-		- jtransforms (library for track analyzer)
+	- Commons math 3 (library for track analyzer)
+	- jtransforms (library for track analyzer)
 - Flat Laf (UI Look and feel)
 - jAudio
 - Commons io 
 - Swing libraries
-		- jGoodies
-		- migLayout
+	- jGoodies
+	- migLayout
