@@ -15,9 +15,8 @@ Capabilites:
 - Seamless transition between panels
 - Modern look and feel
 
-![Homepage](/images/rec1.png | width=100)
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec1.png" width=50% height=50%>
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 
 Limitations:
