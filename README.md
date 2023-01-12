@@ -15,7 +15,7 @@ Capabilites:
 - Seamless transition between panels
 - Modern look and feel
 
-![Homepage](/images/rec1.png "Image Title")
+![](/images/rec1.png | width=100)
 
 
 Limitations:
