@@ -16,13 +16,13 @@
 - Modern look and feel
 
 ## Homepage
-<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec1.png" width=65% height=65%>
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec1.png" width=80% height=80%>
 
 ## Recorder and player
-<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec2.png" width=65% height=65%>
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec2.png" width=80% height=80%>
 
 ## Midi generation
-<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec3.png" width=65% height=65%>
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec3.png" width=80% height=80%>
 
 ## Limitations:
 - Some instruments have sound profiles(timbre) that make it hard to analyze and put a definitive note to.
