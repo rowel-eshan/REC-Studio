@@ -2,7 +2,7 @@
 
 ## Welcome to RECStudio, an experimental audio to MIDI platform.
 
-Capabilites:
+## Capabilites:
 - Recording audio in WAV
 - WAV to MIDI conversion
 - Recording Playback
@@ -24,7 +24,7 @@ Capabilites:
 ## Midi generation
 <img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec3.png" width=65% height=65%>
 
-Limitations:
+## Limitations:
 - Some instruments have sound profiles(timbre) that make it hard to analyze and put a definitive note to.
 - Works best with Flutes and wind instruments, Piano, Guitar.
 - May struggle with percussive instruments (Xylophone...)
@@ -35,7 +35,7 @@ Limitations:
 - Users must play using constant BPM. Ex. Classical guitar with Rubato (variable tempo) may struggle with MIDI generation
 - MIDI generation may struggle with very dynamic rhythms such as third notes
 
-API/Libraries used:
+## API/Libraries used:
 - jMusic
 - QuiFFT
 - TrackAnalyzer
