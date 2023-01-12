@@ -17,6 +17,8 @@ Capabilites:
 
 ![Homepage](/images/rec1.png | width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 Limitations:
 - Some instruments have sound profiles(timbre) that make it hard to analyze and put a definitive note to.
