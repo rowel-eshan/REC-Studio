@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/QuiFFT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Downloads/jMusic1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/jAudio.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/flatlaf-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/trackanalyzer/jtransforms-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/trackanalyzer/TrackAnalyzer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rowel/Desktop/trackanalyzer/commons-math3-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
