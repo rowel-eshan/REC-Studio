@@ -14,6 +14,9 @@ Capabilites:
 - Very user friendly and modern design 
 - Seamless transition between panels
 - Modern look and feel
+- 
+![Semantic description of image](RECStudio/images/rec1.png "Image Title")
+
 
 Limitations:
 - Some instruments have sound profiles(timbre) that make it hard to analyze and put a definitive note to.
