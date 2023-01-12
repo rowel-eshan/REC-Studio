@@ -15,7 +15,7 @@ Capabilites:
 - Seamless transition between panels
 - Modern look and feel
 - 
-![Semantic description of image](RECStudio/images/rec1.png "Image Title")
+![Homepage](/images/rec1.png "Image Title")
 
 
 Limitations:
