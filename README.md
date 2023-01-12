@@ -15,9 +15,14 @@ Capabilites:
 - Seamless transition between panels
 - Modern look and feel
 
-<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec1.png" width=50% height=50%>
+## Homepage
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec1.png" width=65% height=65%>
 
+## Recorder and player
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec2.png" width=65% height=65%>
 
+## Midi generation
+<img src="https://github.com/rowel-eshan/RECStudio/blob/main/images/rec3.png" width=65% height=65%>
 
 Limitations:
 - Some instruments have sound profiles(timbre) that make it hard to analyze and put a definitive note to.
