@@ -11,7 +11,6 @@
 - Versitaile MIDI generation parameters
 - BPM autodetection and optional override
 - Light and dark modes that save on close
-- Very user friendly and modern design 
 - Seamless transition between panels
 - Modern look and feel
 
